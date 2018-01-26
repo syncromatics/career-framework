@@ -15,7 +15,19 @@
 * One-sentence "what is success?"
 * What does this person know?
 
-# Evaluation Criteria
+# Company culture & core values
+
+TBD
+
+# Engineering team culture & core values
+
+Braindump
+
+* Open source contributions
+* Craftsmanship
+* Agile
+
+# What's important?
 
 * Mix of tech and "soft" skills/intangibles
 * Passion/drive to learn and improve craft
