@@ -1,5 +1,3 @@
-# Hi to anyone looking through the glass!
-
 # Syncromatics Engineering Ladder
 
 | People Track   | Technology Track                   | System Integration Engineer Track |
