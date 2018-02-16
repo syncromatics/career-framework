@@ -12,6 +12,11 @@
     * We're agile - we deliver in iteration
     * We love the craft of software development
     * We love and support the open source community
+    * Engineering Culture
+        * Agile, iterative approach to product delivery
+        * Be test-minded
+        * 
+
 * About the career framework
     * It's very much based on Buffer's [Engineering Career Paths Framework][eng-career-paths-fx]
     * We care about developing people
@@ -29,9 +34,14 @@
     * Software
         * Platform distinction
         * Product distinction
+        * Devices distinction
+        * DevOps distinction
+        * Test distinction
     * System Integration
         * Test distinction
         * R&D distinction
+   
+        
 
 # Syncromatics Engineering Career Framework
 
@@ -55,9 +65,22 @@ We love our craft. We work on a range of problems whose solutions directly impac
 
 We love and support the engineering community. As much as is possible, we strive to make our software open source and available to others. Developing relationships alongside technology is important to us.
 
+
+
 ## About the career framework
 
 We took a lot of inspiration from Buffer's [Engineering Career Paths Framework][eng-career-paths-fx]. (Thanks [Katie][katie-womersley]!) Particularly, Buffer's "focus on the journey, the growth and evolution that is a career" is exactly the focus we want to have for the Syncromatics Engineering team.
 
 [eng-career-paths-fx]: https://open.buffer.com/engineering-career-framework/
 [katie-womersley][https://open.buffer.com/author/katie/]
+
+|         | Scope of Influence           | Contributions  | Ownership |
+| ------------- |-------------|------|---|
+| Intern        | Themselves and their tasks. | $1600 |
+| Associate      | Themselves and their tasks.      |   $12 |
+| Engineer       | Their project and their peers.    |    $1 |
+| Senior Engineer | Whole team/product area |
+| Principal Engineer | Multiple teams/projects |
+
+
+ 
