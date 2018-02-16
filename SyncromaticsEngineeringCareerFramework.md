@@ -76,11 +76,11 @@ We took a lot of inspiration from Buffer's [Engineering Career Paths Framework][
 
 |         | Scope of Influence           | Contributions  | Ownership |
 | ------------- |-------------|------|---|
-| Intern        | Themselves and their tasks. | $1600 |
-| Associate      | Themselves and their tasks.      |   $12 |
-| Engineer       | Their project and their peers.    |    $1 |
-| Senior Engineer | Whole team/product area |
-| Principal Engineer | Multiple teams/projects |
+| Intern        | Themselves and their tasks. | $1 | No ownership responsibility yet: this person is learning and being actively developed by others.
+| Associate      | Themselves and their tasks.      |   $5 | No ownership responsibility yet: this person is learning and being actively developed by others.
+| Engineer       | Their project and their peers.    |    $10 | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
+| Senior Engineer | Whole team/product area | $50 | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
+| Principal Engineer | Multiple teams/projects | $100 | Exhibits ownership across the org - this person is a guardian of **Syncromatics**
 
 
  
