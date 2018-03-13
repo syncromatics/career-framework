@@ -65,5 +65,5 @@ People in the system integration path are focused on integrating software and ha
 
 | Distinction | Domain expertise |
 | ----------- | ---------------- |
-| Test | Testability, repeatability, and quality assurance. Emphasis on ensuring the software and hardware work together in harsh environments. |
-| Research & Development | Research, design, manufacturing/OEM sourcing, and planning for field rollout. |
+| Reliability & Readiness | Testability, repeatability, and quality assurance. Emphasis on ensuring the software and hardware work together in harsh environments. Works closely with OPS to solve problems as they arise and to provide specific engineering specifications for different vehicles. |
+| Research & Development | Research, design, manufacturing/OEM sourcing, and documentation planning for field rollout. Focus on developing hardware solutions for new product features and generating appropriate documentation to accompany them. |
