@@ -67,3 +67,32 @@ People in the system integration path are focused on integrating software and ha
 | ----------- | ---------------- |
 | Reliability & Readiness | Testability, repeatability, and quality assurance. Emphasis on ensuring the software and hardware work together in harsh environments. Works closely with OPS to solve problems as they arise and to provide specific engineering specifications for different vehicles. |
 | Research & Development | Research, design, manufacturing/OEM sourcing, and documentation planning for field rollout. Focus on developing hardware solutions for new product features and generating appropriate documentation to accompany them. |
+
+## Evaluating growth and evolution
+
+Syncromatics relies on annual "360° reviews" where each person in the company reviews themselves and a number of their peers. These reviews are compiled by managers into anonymized feedback for each person reviewed.
+
+Below are the questions and statements that make up our 360° reviews. The nearly all of the responses are a rating of confidence or agreement with the statement and a short comment.
+
+### Mission
+
+* In a critical moment, do you trust this employee to make decisions that are in the best interests of the customer and the company?
+* If you were starting a company, would you hire this person for the role they have now?
+* How upset or concerned would you be if this person were to leave the company tomorrow?
+
+### Delivering on Promises
+
+* This person is empathetic to customer needs.
+* This person is more focused on finding solutions than just reporting problems.
+* This person works with a sense of urgency when the situation requires it.
+
+### Team-Focused
+
+* This person takes initiative and doesn't wait for instructions.
+* This person seeks out and/or is receptive to feedback.
+* This person puts the team/company ahead of their individual desires.
+* This person not only completes their work, but is also effective at communicating and documenting the work completed.
+
+### Final Thoughts
+
+* Please give some candid feedback to this person on something that you think will help them improve themselves or their work for the company.
