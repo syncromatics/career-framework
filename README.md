@@ -56,7 +56,7 @@ People in the software engineering path are focused on designing and building so
 | Platform | Design, architecture, and implementation of Software-as-a-Service technologies. Includes databases, data structures, algorithms, and microservices. |
 | Product | Design, architecture, and implemention of user experience, including third-party developer experience. Includes focus on polish and reliability of the finished product. |
 | Devices | Research, design, architecture, and integration of Internet-of-Things and embedded devices. Includes electrical engineering as needed. |
-| DevOps | Hosting, reliability, monitoring, and alerting. Includes developer experience, continuous integration/delivery, and tooling. |
+| Site Reliability | Hosting, reliability, observability, monitoring, and alerting. Includes developer experience, continuous integration/delivery, and tooling. |
 | Test | Testability, repeatability, quality assurance, and automation. Includes diagnosis and prevention. |
 
 #### System Integration path
