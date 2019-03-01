@@ -30,28 +30,6 @@ While we cannot guarantee any promise of future employment, our goal in providin
 
 We are looking for people who are interested in people, mobility, and technology. If you are excited about the [things we're excited about][career-framework-about], apply!
 
-## Selection Criteria
-
-* Interest in public transit
-* Communication skills
-    * Has ability to communicate concepts well
-    * "Do you understand me?" and "Do I understand you?"
-    * Has high attention to detail
-
-
-## Work Scoping
-
-* What will be done?
-    * Define an epic
-    * Plan to include intern in epic planning, creating stories
-    * Plan for demonstrating work at end of internship
-    * Deliver documentation
-* Who will mentor?
-    * Designate a "point person"
-    * Set up weekly one-on-ones with point person
-* Define milestones
-* Define selection criteria
-* Define success criteria
 
 [career-framework-titles]: ./README.md#titles
 [career-framework-about]: ./README.md#about-the-career-framework
