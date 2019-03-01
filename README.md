@@ -1,8 +1,8 @@
-# Syncromatics Engineering Career Framework
+# GMV Syncromatics Engineering Career Framework
 
-## About Syncromatics
+## About GMV Syncromatics
 
-Syncromatics is a Software-as-a-Service and hardware integrator that makes products for transit agencies and operators. Simply, we help our customers _do_ transit and connect with their riders.
+GMV Syncromatics is a Software-as-a-Service and hardware integrator that makes products for transit agencies and operators. Simply, we help our customers _do_ transit and connect with their riders.
 
 The whole Syncromatics team shares three core values:
 
@@ -11,9 +11,9 @@ The whole Syncromatics team shares three core values:
 * We share knowledge
 
 
-## About Syncromatics Engineering
+## About GMV Syncromatics Engineering
 
-The Syncromatics Engineering team is made of the people who define, design, and implement transit solutions. Within this team, there are two groups who work closely together: software and system integration.
+The GMV Syncromatics Engineering team is made of the people who define, design, and implement transit solutions. Within this team, there are two groups who work closely together: software and system integration.
 
 We are an agile team. (In both the "agile" and "Agile" senses.) Iteration and delivery are key drivers for us. We are frequently exploring the edges of new technology looking for new and better ways to get things done.
 
@@ -24,7 +24,7 @@ We love and support the engineering community. As much as is possible, we strive
 
 ## About the career framework
 
-We took a lot of inspiration from Buffer's [Engineering Career Paths Framework][eng-career-paths-fx]. (Thanks [Katie][katie-womersley]!) Particularly, Buffer's "focus on the journey, the growth and evolution that is a career" is exactly the focus we want to have for the Syncromatics Engineering team.
+We took a lot of inspiration from Buffer's [Engineering Career Paths Framework][eng-career-paths-fx]. (Thanks [Katie][katie-womersley]!) Particularly, Buffer's "focus on the journey, the growth and evolution that is a career" is exactly the focus we want to have for the GMV Syncromatics Engineering team.
 
 [eng-career-paths-fx]: https://open.buffer.com/engineering-career-framework/
 [katie-womersley]: https://open.buffer.com/author/katie/
@@ -40,7 +40,7 @@ We have built this career framework to have two dimensions: Title and Distinctio
 | Associate      | Themselves and their tasks.      | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others.
 | Engineer       | Their project and their peers.    | Breaks down large and complex tasks into manageable tasks. | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
 | Senior Engineer | Whole team/product area | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
-| Principal Engineer | Multiple teams/projects | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. | Exhibits ownership across the org - this person is a guardian of **Syncromatics**
+| Principal Engineer | Multiple teams/projects | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
 
 
 ### Distinctions
@@ -70,7 +70,7 @@ People in the system integration path are focused on integrating software and ha
 
 ## Evaluating growth and evolution
 
-Syncromatics relies on annual "360° reviews" where each person in the company reviews themselves and a number of their peers. These reviews are compiled by managers into anonymized feedback for each person reviewed.
+GMV Syncromatics relies on annual "360° reviews" where each person in the company reviews themselves and a number of their peers. These reviews are compiled by managers into anonymized feedback for each person reviewed.
 
 Below are the questions and statements that make up our 360° reviews. The nearly all of the responses are a rating of confidence or agreement with the statement and a short comment.
 
