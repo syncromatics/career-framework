@@ -34,14 +34,13 @@ We have built this career framework to have two dimensions: Title and Distinctio
 
 ### Titles
 
-| Title | Scope of Influence           | Contributions  | Ownership |
-| ------------- |-------------|------|---|
-| Intern        | Themselves and their tasks. | Completes well-specified tasks while receiving technical mentoring. Striving to learn in a self-directed way. | No ownership responsibility yet: this person is learning and being actively developed by others.
-| Associate      | Themselves and their tasks.      | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others.
-| Engineer       | Their project and their peers.    | Breaks down large and complex tasks into manageable tasks. | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
-| Senior Engineer | Whole team/product area | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
-| Principal Engineer | Multiple teams/projects | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
-
+| Title              | Scope of Influence             | Contributions                                                | Ownership                                                    |
+| ------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Intern             | Themselves and their tasks.    | Completes well-specified tasks while receiving technical mentoring. Striving to learn in a self-directed way. | No ownership responsibility yet: this person is learning and being actively developed by others. |
+| Associate          | Themselves and their tasks.    | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others. |
+| Engineer           | Their project and their peers. | Breaks down large and complex tasks into manageable tasks.   | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted). |
+| Senior Engineer    | Whole team/product area        | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, (e.g. figuring out on-call schedules, establishing monitoring). |
+| Principal Engineer | Multiple teams/projects        | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. | Exhibits ownership across the organization (e.g. this person is a guardian of **GMV Syncromatics**) |
 
 ### Distinctions
 
@@ -51,22 +50,22 @@ Distinctions are grouped into "paths" that describe a collection of broadly rela
 
 People in the software engineering path are focused on designing and building software.
 
-| Distinction | Domain expertise |
-| ----------- | ---------------- |
-| Platform | Design, architecture, and implementation of Software-as-a-Service technologies. Includes databases, data structures, algorithms, and microservices. |
-| Product | Design, architecture, and implemention of user experience, including third-party developer experience. Includes focus on polish and reliability of the finished product. |
-| Devices | Research, design, architecture, and integration of Internet-of-Things and embedded devices. Includes electrical engineering as needed. |
-| Site Reliability | Hosting, reliability, observability, monitoring, and alerting. Includes developer experience, continuous integration/delivery, and tooling. |
-| Test | Testability, repeatability, quality assurance, and automation. Includes diagnosis and prevention. |
+| Distinction                                             | Domain expertise                                             |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| [Platform](Distinctions/Software Engineering/Platform.md)                                                | Design, architecture, and implementation of Software-as-a-Service technologies. Includes databases, data structures, algorithms, and microservices. |
+| [Product](Distinctions/Software Engineering/Product.md) | Design, architecture, and implemention of user experience, including third-party developer experience. Includes focus on polish and reliability of the finished product. |
+| [Devices](Distinctions/Software Engineering/Devices.md)                                                 | Research, design, architecture, and integration of Internet-of-Things and embedded devices. Includes electrical engineering as needed. |
+| [Site Reliability](Distinctions/Software Engineering/Site Reliability.md)                                        | Hosting, reliability, observability, monitoring, and alerting. Includes developer experience, continuous integration/delivery, and tooling. |
+| [Test](Distinctions/Software Engineering/Test.md)                                                    | Testability, repeatability, quality assurance, and automation. Includes diagnosis and prevention. |
 
 #### System Integration path
 
 People in the system integration path are focused on integrating software and hardware and certifying its viability and reliability for use in the field.
 
-| Distinction | Domain expertise |
-| ----------- | ---------------- |
-| Reliability & Readiness | Testability, repeatability, and quality assurance. Emphasis on ensuring the software and hardware work together in harsh environments. Works closely with OPS to solve problems as they arise and to provide specific engineering specifications for different vehicles. |
-| Research & Development | Research, design, manufacturing/OEM sourcing, and documentation planning for field rollout. Focus on developing hardware solutions for new product features and generating appropriate documentation to accompany them. |
+| Distinction             | Domain expertise                                             |
+| ----------------------- | ------------------------------------------------------------ |
+| [Reliability & Readiness](Distinctions/System Integration/Reliability and Readiness.md) | Testability, repeatability, and quality assurance. Emphasis on ensuring the software and hardware work together in harsh environments. Works closely with OPS to solve problems as they arise and to provide specific engineering specifications for different vehicles. |
+| [Research & Development](Distinctions/System Integration/Research and Development.md)  | Research, design, manufacturing/OEM sourcing, and documentation planning for field rollout. Focus on developing hardware solutions for new product features and generating appropriate documentation to accompany them. |
 
 ## Evaluating growth and evolution
 
