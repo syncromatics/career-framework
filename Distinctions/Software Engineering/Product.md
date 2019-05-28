@@ -1,6 +1,6 @@
 # Distinction: Software Engineering, Product
 
-The Product distinction primarily involves design, architecture, and implemention of user experience, including third-party developer experience. It includes a focus on polish and reliability of the finished product. This distinction is focused on the human-software interactions at all levels of our system.
+The Product distinction primarily involves design, architecture, and implementation of user experience, including third-party developer experience. It includes a focus on polish and reliability of the finished product. This distinction is focused on the human-software interactions at all levels of our system.
 
 ## Typical sprint work
 
