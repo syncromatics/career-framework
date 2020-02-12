@@ -31,6 +31,11 @@ We took a lot of inspiration from Buffer's [Engineering Career Paths Framework][
 
 We have built this career framework to have two dimensions: Title and Distinction. The title describes a person's scope of influence and ownership of their work. The distinction describes a person's domain of expertise.
 
+## Team Organization
+
+Our Engineering department is organized into "Squads". A Squad is an unit of Software Engineering that can independently design and deliver on Product, Platform, Devices or SRE initiatives. The full-stack nature of a squad goes deep and wide. A Squad comprises of 3 - 4 Software Engineers (including a Lead), 1 - 2 QA Engineer(s), and a dedicated Product Owner / Manager.
+
+Squads are independent Engineering resources each assigned to one Product Area or Vertical at any point of time, collaborating on  technical architecture, best practice, and releases with fair opporunity for internal mobility and vertical growth.  
 
 ### Titles
 
@@ -39,10 +44,10 @@ We have built this career framework to have two dimensions: Title and Distinctio
 | Intern        | Themselves and their tasks. | Completes well-specified tasks while receiving technical mentoring. Striving to learn in a self-directed way. | No ownership responsibility yet: this person is learning and being actively developed by others.
 | Associate      | Themselves and their tasks.      | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others.
 | Engineer       | Their project and their peers.    | Breaks down large and complex tasks into manageable tasks. | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
-| Senior Engineer | Their team or squad/primary product area | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
-| Staff Engineer | Upto 2 teams or squads/ multiple projects / primary product area | Leads design and development of new product features/ technologies/ processes for their squad(s). Enables collaboration, processes and communication within and across squads and stakeholders.  | Exhibits the **highest level** of ownership across their squads and primary product vertical.  
-| Principal Engineer | Multiple teams or squads/ all projects/all product areas | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. Implements best practices, provides governance over Engineering policies and procedures. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
-
+| Senior Engineer | Their squad/ squad product area | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
+| Staff Engineer | Upto 2 squads/ multiple projects / squad product area(s) | Leads design and development of new product features/ technologies/ processes for their squad(s). Enables collaboration, processes and communication within and across squads and stakeholders.  | Exhibits the **highest level** of ownership across their squads and squad product area.  
+| Principal Engineer | Multiple squads/ all projects/ all product areas | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. Implements best practices, provides governance over Engineering policies and procedures. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
+| Engineering Manager | Multiple squads/ all projects/ all product areas | Manages engineering projects, products, squads, operations, administration, SDLC, decision-making, provides governance over policies and best practices   | Exhibits **highest level** of ownership across their squads and squad product area(s)
 
 ### Distinctions
 
@@ -59,6 +64,7 @@ People in the software engineering path are focused on designing and building so
 | Devices | Research, design, architecture, and integration of Internet-of-Things and embedded devices. Includes electrical engineering as needed. |
 | Site Reliability | Hosting, reliability, observability, monitoring, and alerting. Includes developer experience, continuous integration/delivery, and tooling. |
 | Test | Testability, repeatability, quality assurance, and automation. Includes diagnosis and prevention. |
+| Quality Assurance | Manual, functional testing, test planning, end-to-end regression, user acceptance assistance, prod issue triage, grooming activities, quality ownership|
 
 #### System Integration path
 
@@ -68,6 +74,15 @@ People in the system integration path are focused on integrating software and ha
 | ----------- | ---------------- |
 | Reliability & Readiness | Testability, repeatability, and quality assurance. Emphasis on ensuring the software and hardware work together in harsh environments. Works closely with OPS to solve problems as they arise and to provide specific engineering specifications for different vehicles. |
 | Research & Development | Research, design, manufacturing/OEM sourcing, and documentation planning for field rollout. Focus on developing hardware solutions for new product features and generating appropriate documentation to accompany them. |
+
+#### Engineering Management path
+| Distinction | Domain expertise |
+| ----------- | ---------------- |
+| Hardware | Engineering management with focus on hardware engineering, R&D and testing, development and integration, process, best practice |
+| Software | Engineering Management with focus on software design, development, process, delivery, best practices, quality  |
+| Operations & People | Engineering Management with focus on departmental operations, engineering process and best practice, DevOps, SDLC, administration and human capital - hiring career compensation|
+| Leadership & Strategy | Engineering Management with focus on vision, mission, strategy, collaboration, business, partnerships, quality, ownership  |
+
 
 ## Evaluating growth and evolution
 
