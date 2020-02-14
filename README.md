@@ -37,17 +37,31 @@ Our Engineering department is organized into "Squads". A Squad is an unit of Sof
 
 Squads are independent Engineering resources each assigned to one Product Area or Vertical at any point of time, collaborating on  technical architecture, best practice, and releases with fair opporunity for internal mobility and vertical growth.  
 
+## Organization Levels
+The Engineering Org has numeric levels, between L0-10, associated with job titles to indicate seniority within the team independent of the career "paths". 
+
+
 ### Titles
 
-| Title | Scope of Influence           | Contributions  | Ownership |
-| ------------- |-------------|------|---|
-| Intern        | Themselves and their tasks. | Completes well-specified tasks while receiving technical mentoring. Striving to learn in a self-directed way. | No ownership responsibility yet: this person is learning and being actively developed by others.
-| Associate      | Themselves and their tasks.      | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others.
-| Engineer       | Their project and their peers.    | Breaks down large and complex tasks into manageable tasks. | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
-| Senior Engineer | Their squad/ squad product area | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
-| Staff Engineer | Upto 2 squads/ multiple projects / squad product area(s) | Leads design and development of new product features/ technologies/ processes for their squad(s). Enables collaboration, processes and communication within and across squads and stakeholders.  | Exhibits the **highest level** of ownership across their squads and squad product area.  
-| Principal Engineer | Multiple squads/ all projects/ all product areas | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. Implements best practices, provides governance over Engineering policies and procedures. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
-| Engineering Manager | Multiple squads/ all projects/ all product areas | Manages engineering projects, products, squads, operations, administration, SDLC, decision-making, provides governance over policies and best practices   | Exhibits **highest level** of ownership across their squads and squad product area(s)
+#### Engineer Titles
+| Title |  Level |  Scope of Influence          | Contributions  | Ownership |
+| ------------- | -------- | -------------|------|---|
+| Intern | L0 | Themselves and their tasks. | Completes well-specified tasks while receiving technical mentoring. Striving to learn in a self-directed way. | No ownership responsibility yet: this person is learning and being actively developed by others.
+| Associate  | L1  | Themselves and their tasks.      | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others.
+| Engineer    |L2 - L3   | Their project and their peers.    | Breaks down large and complex tasks into manageable tasks. | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
+| Senior Engineer | L4 - L5 | Their squad | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
+| Staff Engineer | L6 | Upto two squads | Leads design and development of new product features/ technologies/ processes for their squad(s). Enables collaboration, processes and communication within and across squads and stakeholders.  | Exhibits the **highest level** of ownership across their squads 
+| Principal Engineer | L7 | Multiple squads | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. Implements best practices, provides governance over Engineering policies and procedures. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
+
+
+#### Manager Titles
+| Title |  Level |  Scope of Influence          | Contributions  | Ownership |
+| ------------- | -------- | -------------|------|---|
+| Engineering Manager | L5 - L6 | Their squad(s) | Manages engineering work, people, process with squad leaders, coordinates releases, resources, testing efforts, product collaboration, communication, implements policies and best practices, contributes to strategy and planning | **Very strong** ownership across their squad(s) 
+| Senior Engineering Manager | L7 | Multiple squads | Manages engineering work, people, process with other manager, squad leaders where necessary, plans resources, product collaboration, communication, implements policies and best practices, involved in strategy, planning and budgets  | **highest level** of ownership Across their squad(s) 
+| Director | L7 - L8 | Multiple squads upto entire organization | Manages engineering work, people, process with other managers, plans resources, product collaboration, communication, implements policies and best practices, key player in strategic planning and budgets across the organization| **highest level** of ownership across their squads and engineering organization
+| CTO | L9 | Entire engineering organization | Manages engineering work, people, process with other managers, plans resources, product collaboration, communication, implements policies and best practices, responsible for strategic planning and budgets across the engineering organization, key role in partnerships, business vision and client relations | Ownership across entire engineering organization
+
 
 ### Distinctions
 
