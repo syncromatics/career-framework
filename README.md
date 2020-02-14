@@ -38,7 +38,7 @@ Our Engineering department is organized into "Squads". A Squad is an unit of Sof
 Squads are independent Engineering resources each assigned to one Product Area or Vertical at any point of time, collaborating on  technical architecture, best practice, and releases with fair opporunity for internal mobility and vertical growth.  
 
 ## Organization Levels
-The Engineering Org has numeric levels, between L0-10, associated with job titles to indicate seniority within the team independent of the career "paths". 
+The Engineering roles are categorized into numeric levels, between L0-10, associated with job titles to indicate seniority within the team independent of the career "paths". 
 
 
 ### Titles
