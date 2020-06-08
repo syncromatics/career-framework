@@ -31,16 +31,33 @@ We took a lot of inspiration from Buffer's [Engineering Career Paths Framework][
 
 We have built this career framework to have two dimensions: Title and Distinction. The title describes a person's scope of influence and ownership of their work. The distinction describes a person's domain of expertise.
 
+## Team Organization
+
+Our Engineering department is organized into "Squads". A Squad is an unit of Software Engineering that can independently design and deliver on Product, Platform, Devices or SRE initiatives. The full-stack nature of a squad goes deep and wide. A Squad comprises of 3 - 4 Software Engineers (including a Lead), 1 - 2 QA Engineer(s), and a dedicated Product Owner / Manager.
+
+Squads are independent Engineering resources each assigned to one Product Area or Vertical at any point of time, collaborating on  technical architecture, best practice, and releases with fair opporunity for internal mobility and vertical growth.  
+
 
 ### Titles
 
-| Title | Scope of Influence           | Contributions  | Ownership |
-| ------------- |-------------|------|---|
-| Intern        | Themselves and their tasks. | Completes well-specified tasks while receiving technical mentoring. Striving to learn in a self-directed way. | No ownership responsibility yet: this person is learning and being actively developed by others.
-| Associate      | Themselves and their tasks.      | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others.
-| Engineer       | Their project and their peers.    | Breaks down large and complex tasks into manageable tasks. | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
-| Senior Engineer | Whole team/product area | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
-| Principal Engineer | Multiple teams/projects | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
+#### Engineer Titles
+| Title |   Scope of Influence          | Contributions  | Ownership |
+| ------------- | -------- | -------------|------|---|
+| Intern | Themselves and their tasks. | Completes well-specified tasks while receiving technical mentoring. Striving to learn in a self-directed way. | No ownership responsibility yet: this person is learning and being actively developed by others.
+| Associate  | Themselves and their tasks.      | Works on well-specified tasks in a self-directed manner. Collaborates with team and asks for help when working near the periphery of their knowledge or experience. | No ownership responsibility yet: this person is learning and being actively developed by others.
+| Engineer   | Their project and their peers.    | Breaks down large and complex tasks into manageable tasks. | Co-owns an area with guidance & takes initiative (e.g fixes bugs unprompted)
+| Senior Engineer | Their squad | Translates ideas into projects with discrete tasks and guides and unblocks others on the team. Collaborates with non-technical team members to give technical advice. | Has a consistent record of **very strong ownership** for their area, e.g. figuring out on-call schedules, establishing monitoring
+| Staff Engineer | Upto two squads | Leads design and development of new product features/ technologies/ processes for their squad(s). Enables collaboration, processes and communication within and across squads and stakeholders.  | Exhibits the **highest level** of ownership across their squads 
+| Principal Engineer | Multiple squads | Leads architecture of new systems/technologies/processes to improve the business. Communicates complex matters in understandable terms for a wide range of audiences. Implements best practices, provides governance over Engineering policies and procedures. | Exhibits ownership across the org - this person is a guardian of **GMV Syncromatics**
+
+
+#### Manager Titles
+| Title | Scope of Influence          | Contributions  | Ownership |
+| ------------- | -------- | -------------|------|---|
+| Engineering Manager | Their squad(s) | Manages engineering work, people, process with squad leaders, coordinates releases, resources, testing efforts, product collaboration, communication, implements policies and best practices, contributes to strategy and planning | **Very strong** ownership across their squad(s) 
+| Senior Engineering Manager | Multiple squads | Manages engineering work, people, process with other manager, squad leaders, plans resources, product collaboration, communication, implements policies and best practices, involved in strategy, planning and budgets  | **highest level** of ownership Across their squad(s) 
+| Director | Multiple squads upto entire organization | Manages engineering work, people, process with other managers, plans resources, product collaboration, communication, implements policies and best practices, key player in strategic planning and budgets across the organization| **highest level** of ownership across their squads and engineering organization
+| CTO | Entire engineering organization | Manages engineering work, people, process with other managers, plans resources, product collaboration, communication, implements policies and best practices, responsible for strategic planning and budgets across the engineering organization, key role in partnerships, business vision and client relations | Ownership across entire engineering organization
 
 
 ### Distinctions
@@ -58,6 +75,7 @@ People in the software engineering path are focused on designing and building so
 | Devices | Research, design, architecture, and integration of Internet-of-Things and embedded devices. Includes electrical engineering as needed. |
 | Site Reliability | Hosting, reliability, observability, monitoring, and alerting. Includes developer experience, continuous integration/delivery, and tooling. |
 | Test | Testability, repeatability, quality assurance, and automation. Includes diagnosis and prevention. |
+| Quality Assurance | Manual, functional testing, test planning, end-to-end regression, user acceptance assistance, prod issue triage, grooming activities, quality ownership|
 
 #### System Integration path
 
@@ -67,6 +85,15 @@ People in the system integration path are focused on integrating software and ha
 | ----------- | ---------------- |
 | Reliability & Readiness | Testability, repeatability, and quality assurance. Emphasis on ensuring the software and hardware work together in harsh environments. Works closely with OPS to solve problems as they arise and to provide specific engineering specifications for different vehicles. |
 | Research & Development | Research, design, manufacturing/OEM sourcing, and documentation planning for field rollout. Focus on developing hardware solutions for new product features and generating appropriate documentation to accompany them. |
+
+#### Engineering Management path
+| Distinction | Domain expertise |
+| ----------- | ---------------- |
+| Hardware | Engineering management with focus on hardware engineering, R&D and testing, development and integration, process, best practice |
+| Software | Engineering Management with focus on software design, development, process, delivery, best practices, quality  |
+| Operations & People | Engineering Management with focus on departmental operations, engineering process and best practice, DevOps, SDLC, administration and human capital - hiring career compensation|
+| Leadership & Strategy | Engineering Management with focus on vision, mission, strategy, collaboration, business, partnerships, quality, ownership  |
+
 
 ## Evaluating growth and evolution
 
