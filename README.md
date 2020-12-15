@@ -33,7 +33,7 @@ We have built this career framework to have two dimensions: Title and Distinctio
 
 Our Engineering department is organized into "Squads". A Squad is an unit of Software Engineering that can independently design and deliver on Product, Platform, Devices or SRE initiatives. The full-stack nature of a squad goes deep and wide. A Squad comprises of 3 - 4 Software Engineers (including a Lead), 1 - 2 QA Engineer(s).
 
-Squads are independent Engineering resources each assigned to one Product Area or Vertical at any point of time, collaborating on technical architecture, best practice, and releases with fair opporunity for internal mobility and vertical growth. As dedicated resources to specific products, squads also include a single Product Manager and contributions from a UX & UI Designer, who may be members of multiple squads.
+Squads are independent Engineering resources each assigned to one Product Area or Vertical at any point of time, collaborating on technical architecture, best practice, and releases with fair opporunity for internal mobility and vertical growth. As dedicated resources to specific products areas, squads also include a single Product Manager and contributions from a UX & UI Designer, who may be members of multiple squads.
 
 ### Titles
 
