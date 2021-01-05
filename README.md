@@ -100,22 +100,24 @@ Below are the questions and statements that make up our 360° reviews. The nearl
 
 ### Mission
 
-- In a critical moment, do you trust this employee to make decisions that are in the best interests of the customer and the company?
+- In a critical moment, do you trust this employee to make decisions that are in the best interests of the customer and company?
 - If you were starting a company, would you hire this person for the role they have now?
-- How upset or concerned would you be if this person were to leave the company tomorrow?
 
 ### Delivering on Promises
 
-- This person is empathetic to customer needs.
-- This person is more focused on finding solutions than just reporting problems.
-- This person works with a sense of urgency when the situation requires it.
+- This person doesn't complain about problems but instead focuses on identifying problems and finding solutions.
+- This person achieves exceptional results without diminishing relationships.
 
 ### Team-Focused
 
-- This person takes initiative and doesn't wait for instructions.
+- This person takes initiative.
 - This person seeks out and/or is receptive to feedback.
-- This person puts the team/company ahead of their individual desires.
+- This person is a team player.
 - This person not only completes their work, but is also effective at communicating and documenting the work completed.
+
+### Self-Awareness
+
+- This person is seen as authentic and approachable.
 
 ### Final Thoughts
 
